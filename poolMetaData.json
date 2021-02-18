@@ -1,6 +1,7 @@
 {
-"name": "Atlantis",
-"description": "Grousset Technologies",
-"ticker": "GTEC",
-"homepage": "http://www.grousset.com"
-}
+  "name": "Atlantis",
+  "description": "Grousset Technologies",
+  "ticker": "GTEC",
+  "homepage": "http://www.grousset.com",
+  "extended": "https://git.io/JIn6y"
+  }
