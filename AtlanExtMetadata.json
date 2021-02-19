@@ -1,0 +1,61 @@
+{
+how-to-implement: "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+info: {
+url_png_icon_64x64: "https://www.zupimages.net/up/21/07/mvie.png",
+url_png_logo: "https://tinyurl.com/ATLANTIS-GT",
+location: "France",
+social: {
+twitter_handle: "@Grousset_Techno",
+telegram_handle: "474470859",
+facebook_handle: "",
+youtube_handle: "",
+twitch_handle: "",
+discord_handle: "",
+github_handle: ""
+},
+company: {
+name: "",
+addr: "",
+city: "",
+country: "",
+company_id: "",
+vat_id: ""
+},
+about: {
+me: "mining and staking operations",
+server: "infrastructure is hosted on industry grade HP Blade chassis servers, running in temperature controlled room provided with reliable high-speed fiber internet connection and stable power. This enables us to provide with a 24/7 service continuity.",
+company: ""
+},
+rss: "http(s) url to valid RSS feed"
+},
+my-pool-ids: {
+0: "901365128eb65b5848262c0069e9bbe2cf702a6507c7926c0b09b98a",
+1: ""
+},
+when-satured-then-recommend: {
+0: "34a89f77c5fcf0563d129bde9b255f20b269a2dda1561c65d418ec40",
+1: ""
+},
+telegram-admin-handle: {
+0: ""
+},
+adapools_ext: {
+prometheus: {
+0: {
+name: "relay 1 fr",
+type: "relay",
+key: "example_get_own_on_adapools.org/connect"
+},
+1: {
+name: "relay 2 us",
+type: "relay",
+key: "example_get_own_on_adapools.org/connect"
+},
+2: {
+name: "block producer home",
+type: "bp",
+key: "example_get_own_on_adapools.org/connect"
+}
+}
+}
+}
