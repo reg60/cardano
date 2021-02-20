@@ -3,9 +3,9 @@ https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stake
 
 KEYS (https://www.coincashew.com/)
 
-   |   KEYS     |  OFFLINE  |  PRODUCER | 
-   --------------------------------------
-   |kes.vkey    |    C     <=    Y      |
+'   |   KEYS     |  OFFLINE  |  PRODUCER | 
+'   --------------------------------------
+'  |kes.vkey    |    C     <=    Y      |
    |kes.skey    |           |    Y      |
    |node.vkey   |    Y      |           | ~/cold-keys
    |node.skey   |    Y      |           | ~/cold-keys
